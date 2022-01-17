@@ -13,7 +13,7 @@
       - I didn't see a penny for this that's why i don't put the link however i learned really a lot from this.
   - I decided to study programming at highschool where i learned some Java, MySQL, HTML5, CSS3 && Javascript (2014)
   - I choosen to keep studing Web languages where i learned more HTML5, CSS3, Javascript and PHP (2017)
-  +  Currently i didn't work as a programmer, maybe that's why is still funny for me however:
+  + Currently i didn't work as a programmer, maybe that's why is still funny for me however:
     - I did various management programs for internal use to some companies.
     - I expend my free time doing some coding to keeping me up to date.
 
